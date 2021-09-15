@@ -1,0 +1,23 @@
+{
+  "name": "typescript_blockchain",
+  "version": "1.0.0",
+  "description": "📚 sneak peek of typescript by making simple blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heesungjang/typescript_blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heesungjang/typescript_blockchain/issues"
+  },
+  "homepage": "https://github.com/heesungjang/typescript_blockchain#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
